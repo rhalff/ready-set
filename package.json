@@ -1,0 +1,16 @@
+{
+  "name": "readymap",
+  "version": "0.0.1",
+  "description": "Checks if things are ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js && tape test/*.js | tap-spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^0.4.13",
+    "tap-spec": "^2.1.0",
+    "jshint": "^2.5.10"
+  }
+}
