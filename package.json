@@ -1,5 +1,5 @@
 {
-  "name": "readymap",
+  "name": "ready-map",
   "version": "0.0.1",
   "description": "Handy tool which waits for stuff to be ready.",
   "main": "index.js",
