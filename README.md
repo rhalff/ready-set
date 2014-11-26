@@ -1,6 +1,6 @@
 # ReadySet
 
-Handy tool to wait for stuff to be ready.
+Handy tool which waits for stuff to be ready.
 
 Assumes the things to be watched all emit the same kind of `ready` event.
 
